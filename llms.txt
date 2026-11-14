@@ -1,0 +1,17 @@
+# Memocode
+
+> Part of Memocode.
+
+Memocode is made by Magnitude Inc. (https://www.magnitude.money/).
+
+## Pages
+
+- [Memocode: Part of Memocode.](https://prepurchase.dev/): Part of Memocode.
+
+## Optional
+
+- [Full text](https://prepurchase.dev/llms-full.txt): every page above as plain Markdown
+- [Intent Infrastructure](https://intentinfrastructure.com/llms.txt): a sibling site, also from Magnitude
+- [OpenOrigin](https://openorigin.sh/llms.txt): a sibling site, also from Magnitude
+- [BrainBridge](https://brainbridge.sh/llms.txt): a sibling site, also from Magnitude
+- [Fleet Factory](https://fleetfactory.ai/llms.txt): a sibling site, also from Magnitude
